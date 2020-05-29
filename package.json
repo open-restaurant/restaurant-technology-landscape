@@ -1,0 +1,19 @@
+{
+  "name": "restaurant-technology-interactive-landscape",
+  "version": "1.0.0",
+  "description": "Interactive visualization of restaurant technology",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/open-restaurant/restaurant-technology-landscape.git"
+  },
+  "author": "Nando's",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/open-restaurant/restaurant-technology-landscape/issues"
+  },
+  "homepage": "https://github.com/open-restaurant/restaurant-technology-landscape#readme"
+}
