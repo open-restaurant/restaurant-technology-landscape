@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/open-restaurant/restaurant-technology-landscape/issues"
   },
-  "homepage": "https://github.com/open-restaurant/restaurant-technology-landscape#readme"
+  "homepage": "https://github.com/open-restaurant/restaurant-technology-landscape#readme",
+  "dependencies": {
+    "interactive-landscape": "^1.0.389"
+  }
 }
