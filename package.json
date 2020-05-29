@@ -11,7 +11,7 @@
     "url": "git+https://github.com/open-restaurant/restaurant-technology-landscape.git"
   },
   "author": "Nando's",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/open-restaurant/restaurant-technology-landscape/issues"
   },
