@@ -4,7 +4,9 @@
   "description": "Interactive visualization of restaurant technology",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "prebuild": ""
+    "build": "npm config set scripts-prepend-node-path true; export PROJECT_PATH=$PWD; npm explore interactive-landscape -- npm run build",
+    "open:dist": "npm config set scripts-prepend-node-path true; export PROJECT_PATH=$PWD; npm explore interactive-landscape -- npm run open:dist"
   },
   "repository": {
     "type": "git",
@@ -17,6 +19,6 @@
   },
   "homepage": "https://github.com/open-restaurant/restaurant-technology-landscape#readme",
   "dependencies": {
-    "interactive-landscape": "^1.0.389"
+    "interactive-landscape": "1.0.408"
   }
 }

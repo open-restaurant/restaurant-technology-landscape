@@ -1,0 +1,981 @@
+# THIS FILE IS GENERATED AUTOMATICALLY!
+landscape:
+  - category:
+    name: Guest Experience
+    subcategories:
+      - subcategory:
+        name: Table Management
+        items:
+          - item:
+            name: Agilysys
+            homepage_url: 'https://www.agilysys.com/'
+            logo: agilysys.svg
+            crunchbase: 'https://www.crunchbase.com/organization/the-guild-9777'
+            crunchbase_data:
+              name: The Guild
+              description: Distributed Open source developer group
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'http://the-guild.dev'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/TheGuildDev'
+              linkedin: 'https://linkedin.com/company/the-guild-software'
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            image_data:
+              fileName: agilysys.svg
+              hash: hkN75mtlJYLx4fnvmfoab0nFgO0YY3qfGcL1CQRoRGk=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-05-29T19:19:13.000Z
+          - item:
+            name: Avenista (TM)
+            homepage_url: 'https://http://www.avenista.com/'
+            logo: avenista.svg
+            crunchbase: 'https://www.crunchbase.com/organization/the-guild-9777'
+            crunchbase_data:
+              name: The Guild
+              description: Distributed Open source developer group
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'http://the-guild.dev'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/TheGuildDev'
+              linkedin: 'https://linkedin.com/company/the-guild-software'
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            image_data:
+              fileName: avenista-tm.svg
+              hash: YINlxR40JL+RF8svyjn5qVtplLPUpwXFL1yxLLVTSwk=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-05-29T19:19:13.000Z
+          - item:
+            name: Eat (TM)
+            homepage_url: 'https://eatapp.co/'
+            logo: eat.svg
+            crunchbase: 'https://www.crunchbase.com/organization/the-guild-9777'
+            crunchbase_data:
+              name: The Guild
+              description: Distributed Open source developer group
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'http://the-guild.dev'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/TheGuildDev'
+              linkedin: 'https://linkedin.com/company/the-guild-software'
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            image_data:
+              fileName: eat-tm.svg
+              hash: 3OdNHRQWa6P8Olu+5DHq5CEe7pHWFY1Gjh0PyYbg98Y=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-05-29T19:19:13.000Z
+      - subcategory:
+        name: Online Ordering
+        items:
+          - item:
+            name: 247Waiter
+            homepage_url: 'https://www.247waiter.com/'
+            logo: 247waiter.svg
+            crunchbase: 'https://www.crunchbase.com/organization/the-guild-9777'
+            crunchbase_data:
+              name: The Guild
+              description: Distributed Open source developer group
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'http://the-guild.dev'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/TheGuildDev'
+              linkedin: 'https://linkedin.com/company/the-guild-software'
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            image_data:
+              fileName: 247-waiter.svg
+              hash: VzSrOG5mnK5R2rN+JwlpFSyWXubNgHAyA1he/RVh5n8=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-05-29T19:19:13.000Z
+          - item:
+            name: 411eat.com
+            homepage_url: 'http://411eat.com/'
+            logo: 411eat.svg
+            crunchbase: 'https://www.crunchbase.com/organization/meteor'
+            crunchbase_data:
+              name: Apollo
+              description: 'Apollo is the GraphQL company. Its Data Graph Platform helps developers, startups, and enterprises get the most out of GraphQL.'
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'http://www.apollographql.com'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'http://twitter.com/apollographql'
+              linkedin: 'https://www.linkedin.com/company/apollo-graphql/'
+              acquisitions:
+                - date: '2014-10-07'
+                  acquiree: FathomDB
+              parents: []
+              funding: 53200000
+              stockExchange: null
+              kind: funding
+            image_data:
+              fileName: 411eat-com.svg
+              hash: Hz3PBhTawjC/EpHLmApELQ2jomZWl7w62cSWD2ehOeI=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-06-01T16:49:23.000Z
+      - subcategory:
+        name: Waitlist
+        items:
+          - item:
+            name: Avenista (W)
+            homepage_url: 'https://http://www.avenista.com/'
+            logo: avenista.svg
+            crunchbase: 'https://www.crunchbase.com/organization/the-guild-9777'
+            crunchbase_data:
+              name: The Guild
+              description: Distributed Open source developer group
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'http://the-guild.dev'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/TheGuildDev'
+              linkedin: 'https://linkedin.com/company/the-guild-software'
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            image_data:
+              fileName: avenista-w.svg
+              hash: YINlxR40JL+RF8svyjn5qVtplLPUpwXFL1yxLLVTSwk=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-05-29T19:19:13.000Z
+          - item:
+            name: Cake
+            homepage_url: 'https://www.trycake.com/'
+            logo: trycake.svg
+            crunchbase: 'https://www.crunchbase.com/organization/the-guild-9777'
+            crunchbase_data:
+              name: The Guild
+              description: Distributed Open source developer group
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'http://the-guild.dev'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/TheGuildDev'
+              linkedin: 'https://linkedin.com/company/the-guild-software'
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            image_data:
+              fileName: cake.svg
+              hash: 4Dm71dytBun9qll9MAhRuJApUCbH263I2qCFEOLLHes=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-05-29T19:19:13.000Z
+      - subcategory:
+        name: Digital Menu
+        items:
+          - item:
+            name: Aptito
+            homepage_url: 'http://aptito.com'
+            logo: aptito.svg
+            crunchbase: 'https://www.crunchbase.com/organization/the-guild-9777'
+            crunchbase_data:
+              name: The Guild
+              description: Distributed Open source developer group
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'http://the-guild.dev'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/TheGuildDev'
+              linkedin: 'https://linkedin.com/company/the-guild-software'
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            image_data:
+              fileName: aptito.svg
+              hash: BPIAmf19hkzBQ3Ek1DheVdtKXNVw6jvLTMiqPorExS8=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-05-29T19:19:13.000Z
+          - item:
+            name: Dyna-Menu
+            homepage_url: 'http://www.dyna-menu.com/'
+            logo: dyna-menu.svg
+            crunchbase: 'https://www.crunchbase.com/organization/the-guild-9777'
+            crunchbase_data:
+              name: The Guild
+              description: Distributed Open source developer group
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'http://the-guild.dev'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/TheGuildDev'
+              linkedin: 'https://linkedin.com/company/the-guild-software'
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            image_data:
+              fileName: dyna-menu.svg
+              hash: nkHsagNeSLCrlV9hEyKMfwpdpDBCVjGD3NyQOl1x728=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-05-29T19:19:13.000Z
+      - subcategory:
+        name: Mobile Payments
+        items:
+          - item:
+            name: Allset
+            homepage_url: 'https://https://allsetnow.com/'
+            logo: allsetnow.svg
+            crunchbase: 'https://www.crunchbase.com/organization/the-guild-9777'
+            crunchbase_data:
+              name: The Guild
+              description: Distributed Open source developer group
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'http://the-guild.dev'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/TheGuildDev'
+              linkedin: 'https://linkedin.com/company/the-guild-software'
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            image_data:
+              fileName: allset.svg
+              hash: J82HeSMw9XGYNMdtAVeskhUN1f/noqMWI177sS0FLCQ=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-05-29T19:19:13.000Z
+          - item:
+            name: Apple Pay
+            homepage_url: 'https://www.apple.com/apple-pay/'
+            logo: apple-pay.svg
+            crunchbase: 'https://www.crunchbase.com/organization/the-guild-9777'
+            crunchbase_data:
+              name: The Guild
+              description: Distributed Open source developer group
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'http://the-guild.dev'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/TheGuildDev'
+              linkedin: 'https://linkedin.com/company/the-guild-software'
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            image_data:
+              fileName: apple-pay.svg
+              hash: Rq+YAyywMSiAZDviXEdfoQtSFpPlxf7uO10SxluX1Qo=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-05-29T19:19:13.000Z
+      - subcategory:
+        name: Loyalty
+        items:
+          - item:
+            name: Influitive
+            homepage_url: 'https://influitive.com/'
+            logo: influitive.svg
+            crunchbase: 'https://www.crunchbase.com/organization/the-guild-9777'
+            crunchbase_data:
+              name: The Guild
+              description: Distributed Open source developer group
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'http://the-guild.dev'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/TheGuildDev'
+              linkedin: 'https://linkedin.com/company/the-guild-software'
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            image_data:
+              fileName: influitive.svg
+              hash: 2In+uivqCXx/yDgAi9KcDihLpeHyvDW7lm5fSWA72tc=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-05-29T19:19:13.000Z
+          - item:
+            name: antavo
+            homepage_url: 'https://antavo.com'
+            logo: antavo.svg
+            crunchbase: 'https://www.crunchbase.com/organization/the-guild-9777'
+            crunchbase_data:
+              name: The Guild
+              description: Distributed Open source developer group
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'http://the-guild.dev'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/TheGuildDev'
+              linkedin: 'https://linkedin.com/company/the-guild-software'
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            image_data:
+              fileName: antavo.svg
+              hash: yhhVp4uWIKI/N9c+FLo3rVOTttk59rxnyLmBjhQikDI=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-05-29T19:19:13.000Z
+      - subcategory:
+        name: Reservation Platforms
+        items:
+          - item:
+            name: Eatigo
+            homepage_url: 'https://eatigo.com/'
+            logo: eatigo.svg
+            crunchbase: 'https://www.crunchbase.com/organization/the-guild-9777'
+            crunchbase_data:
+              name: The Guild
+              description: Distributed Open source developer group
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'http://the-guild.dev'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/TheGuildDev'
+              linkedin: 'https://linkedin.com/company/the-guild-software'
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            image_data:
+              fileName: eatigo.svg
+              hash: XN5j2PKlKwdq7+Qn5wpolXmgMG5P9pb8xsP6bsEAeoE=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-05-29T19:19:13.000Z
+          - item:
+            name: The Fork (Formerly Dimmi)
+            homepage_url: 'https://www.thefork.com.au/'
+            logo: thefork.svg
+            crunchbase: 'https://www.crunchbase.com/organization/the-guild-9777'
+            crunchbase_data:
+              name: The Guild
+              description: Distributed Open source developer group
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'http://the-guild.dev'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/TheGuildDev'
+              linkedin: 'https://linkedin.com/company/the-guild-software'
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            image_data:
+              fileName: the-fork-formerly-dimmi.svg
+              hash: tGZHonIsGmGBVCmpsSM6iYvyBAiK93o0xg3qpIuzG5s=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-05-29T19:19:13.000Z
+      - subcategory:
+        name: Customer Relationship Management
+        items:
+          - item:
+            name: Avenista (CRM)
+            homepage_url: 'https://http://www.avenista.com/'
+            logo: avenista.svg
+            crunchbase: 'https://www.crunchbase.com/organization/the-guild-9777'
+            crunchbase_data:
+              name: The Guild
+              description: Distributed Open source developer group
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'http://the-guild.dev'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/TheGuildDev'
+              linkedin: 'https://linkedin.com/company/the-guild-software'
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            image_data:
+              fileName: avenista-crm.svg
+              hash: YINlxR40JL+RF8svyjn5qVtplLPUpwXFL1yxLLVTSwk=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-05-29T19:19:13.000Z
+          - item:
+            name: AppFront
+            homepage_url: 'https://www.appfront.ai/'
+            logo: appfront.svg
+            crunchbase: 'https://www.crunchbase.com/organization/dailymotion'
+            crunchbase_data:
+              name: Dailymotion
+              description: Dailymotion is the leading destination for video discovery and exploration.
+              num_employees_min: 101
+              num_employees_max: 250
+              homepage: 'http://www.dailymotion.com'
+              city: Paris
+              region: Ile-de-France
+              country: France
+              twitter: 'http://twitter.com/dailymotionUSA'
+              linkedin: 'https://www.linkedin.com/company/24411'
+              acquisitions:
+                - date: '2013-12-10'
+                  acquiree: Jilion
+              parents: []
+              funding: 68500000
+              stockExchange: null
+              kind: funding
+            image_data:
+              fileName: app-front.svg
+              hash: rJqzQvPr+eaxFqk8kkpC4rmJFT0CEIjyH/UKDELrtMU=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-06-01T07:51:25.000Z
+      - subcategory:
+        name: On Demand Delivery
+        items:
+          - item:
+            name: All Menus
+            homepage_url: 'https://www.allmenus.com/'
+            logo: allmenus.svg
+            crunchbase: 'https://www.crunchbase.com/organization/typegraphql'
+            crunchbase_data:
+              name: TypeGraphQL
+              description: 'Create GraphQL schema and resolvers with TypeScript, using classes and decorators!'
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'https://typegraphql.com/'
+              city: Katowice
+              region: Slaskie
+              country: Poland
+              twitter: 'https://twitter.com/TypeGraphQL'
+              linkedin: null
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            image_data:
+              fileName: all-menus.svg
+              hash: X9ZdyXeUfmafioNIn1mZVfho2mQA27ImIFtQcVEadVg=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-06-01T12:02:48.000Z
+      - subcategory:
+        name: Surveys
+        items:
+          - item:
+            name: Avenista (S)
+            homepage_url: 'https://http://www.avenista.com/'
+            logo: avenista.svg
+            crunchbase: 'https://www.crunchbase.com/organization/the-guild-9777'
+            crunchbase_data:
+              name: The Guild
+              description: Distributed Open source developer group
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'http://the-guild.dev'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/TheGuildDev'
+              linkedin: 'https://linkedin.com/company/the-guild-software'
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            image_data:
+              fileName: avenista-s.svg
+              hash: YINlxR40JL+RF8svyjn5qVtplLPUpwXFL1yxLLVTSwk=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-05-29T19:19:13.000Z
+      - subcategory:
+        name: Music Streaming
+        items:
+          - item:
+            name: 8Tracks
+            homepage_url: 'https://8tracks.com/'
+            logo: 8tracks.svg
+            crunchbase: 'https://www.crunchbase.com/organization/the-guild-9777'
+            crunchbase_data:
+              name: The Guild
+              description: Distributed Open source developer group
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'http://the-guild.dev'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/TheGuildDev'
+              linkedin: 'https://linkedin.com/company/the-guild-software'
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            image_data:
+              fileName: 8-tracks.svg
+              hash: pqYCvWibMvUlvtPQwLLH8vVwxwVJ7K/wWBQ8J5wGiOc=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-05-29T19:19:13.000Z
+  - category:
+    name: Operations
+    subcategories:
+      - subcategory:
+        name: Scheduling
+        items:
+          - item:
+            name: 7 Shifts
+            homepage_url: 'https://7shifts.com'
+            logo: 7shifts.svg
+            twitter: 'https://twitter.com/8base'
+            crunchbase: 'https://www.crunchbase.com/organization/8base-2'
+            crunchbase_data:
+              name: 8base
+              description: 8base is a next generation backend-as-a-service for powering SaaS and other go-to-market applications.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'http://8base.com'
+              city: Coral Gables
+              region: Florida
+              country: United States
+              twitter: 'https://twitter.com/8baseinc'
+              linkedin: 'https://www.linkedin.com/company/8base/'
+              acquisitions: []
+              parents: []
+              funding: 2800000
+              stockExchange: null
+              kind: funding
+            image_data:
+              fileName: 7-shifts.svg
+              hash: 0U57hcfVj3/Lna1+sSO+HKa2bwkPJCO84e7KjqSZqvk=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-05-20T01:59:23.000Z
+      - subcategory:
+        name: Food Waste
+        items:
+          - item:
+            name: Copia
+            homepage_url: 'https://www.gocopia.com/'
+            logo: copia.svg
+            crunchbase: 'https://www.crunchbase.com/organization/amazon-web-services'
+            crunchbase_data:
+              name: Amazon Web Services
+              description: Amazon Web Services provides information technology infrastructure services to businesses in the form of web services.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: 'http://aws.amazon.com'
+              city: Seattle
+              region: Washington
+              country: United States
+              twitter: 'http://twitter.com/awscloud'
+              linkedin: 'https://www.linkedin.com/company/amazon-web-services/'
+              acquisitions:
+                - date: '2015-07-14'
+                  acquiree: AppThwack
+                - date: '2016-02-11'
+                  acquiree: NICE
+                - date: '2017-03-06'
+                  acquiree: Thinkbox Software
+                - date: '2017-03-08'
+                  acquiree: Do
+                - date: '2018-01-23'
+                  acquiree: Sqrrl
+                - date: '2019-01-14'
+                  acquiree: TSO Logic
+                - date: '2020-02-21'
+                  acquiree: 'TeamSQL, Inc.'
+              parents:
+                - 'https://www.crunchbase.com/organization/amazon'
+              ticker: AMZN
+              funding: 108000000
+              stockExchange: null
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 1233178722304
+              effective_ticker: AMZN
+            image_data:
+              fileName: copia.svg
+              hash: 4Zi9kSaGJe94d2Cm5/yG6gugrh3pb4ZeGRxOlCBXUkI=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-06-02T13:01:43.000Z
+      - subcategory:
+        name: Restaurant Analytics
+        items:
+          - item:
+            name: Eat (RA)
+            homepage_url: 'https://eatapp.co/'
+            logo: eat.svg
+            crunchbase: 'https://www.crunchbase.com/organization/the-guild-9777'
+            crunchbase_data:
+              name: The Guild
+              description: Distributed Open source developer group
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'http://the-guild.dev'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/TheGuildDev'
+              linkedin: 'https://linkedin.com/company/the-guild-software'
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            image_data:
+              fileName: eat-ra.svg
+              hash: 3OdNHRQWa6P8Olu+5DHq5CEe7pHWFY1Gjh0PyYbg98Y=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-05-29T19:19:13.000Z
+      - subcategory:
+        name: Training
+        items:
+          - item:
+            name: CoInspect
+            homepage_url: 'https://coinspectapp.com/'
+            logo: coinspect.svg
+            crunchbase: 'https://www.crunchbase.com/organization/meteor'
+            crunchbase_data:
+              name: Apollo
+              description: 'Apollo is the GraphQL company. Its Data Graph Platform helps developers, startups, and enterprises get the most out of GraphQL.'
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'http://www.apollographql.com'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'http://twitter.com/apollographql'
+              linkedin: 'https://www.linkedin.com/company/apollo-graphql/'
+              acquisitions:
+                - date: '2014-10-07'
+                  acquiree: FathomDB
+              parents: []
+              funding: 53200000
+              stockExchange: null
+              kind: funding
+            image_data:
+              fileName: co-inspect.svg
+              hash: XJ0fHs28JLTxTVEP3zJz5oU88hf9OsqoBYL2WeoBI0A=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-06-01T16:49:23.000Z
+      - subcategory:
+        name: Tip Reporting
+        items:
+          - item:
+            name: Just The Tips
+            homepage_url: 'http://www.justthetips.com/'
+            logo: just-the-tips.svg
+            crunchbase: 'https://www.crunchbase.com/organization/meteor'
+            crunchbase_data:
+              name: Apollo
+              description: 'Apollo is the GraphQL company. Its Data Graph Platform helps developers, startups, and enterprises get the most out of GraphQL.'
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'http://www.apollographql.com'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'http://twitter.com/apollographql'
+              linkedin: 'https://www.linkedin.com/company/apollo-graphql/'
+              acquisitions:
+                - date: '2014-10-07'
+                  acquiree: FathomDB
+              parents: []
+              funding: 53200000
+              stockExchange: null
+              kind: funding
+            image_data:
+              fileName: just-the-tips.svg
+              hash: jsFuH21JvDhFx33gFQdQy6ILZm7RRGWJbTvh7F/9QV0=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-06-01T16:49:23.000Z
+      - subcategory:
+        name: Inventory Management
+        items:
+          - item:
+            name: Bevspot
+            homepage_url: 'https://bevspot.com/'
+            logo: bevspot.svg
+            crunchbase: 'https://www.crunchbase.com/organization/meteor'
+            crunchbase_data:
+              name: Apollo
+              description: 'Apollo is the GraphQL company. Its Data Graph Platform helps developers, startups, and enterprises get the most out of GraphQL.'
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'http://www.apollographql.com'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'http://twitter.com/apollographql'
+              linkedin: 'https://www.linkedin.com/company/apollo-graphql/'
+              acquisitions:
+                - date: '2014-10-07'
+                  acquiree: FathomDB
+              parents: []
+              funding: 53200000
+              stockExchange: null
+              kind: funding
+            image_data:
+              fileName: bevspot.svg
+              hash: heMSxETxayRGWTTdCEyVQgJBsQzmon/vCsmTBZs+8Qo=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-06-01T16:49:23.000Z
+      - subcategory:
+        name: Restaurant Accounting
+        items:
+          - item:
+            name: Acumatica
+            homepage_url: 'https://www.acumatica.com/'
+            logo: acumatica.svg
+            crunchbase: 'https://www.crunchbase.com/organization/meteor'
+            crunchbase_data:
+              name: Apollo
+              description: 'Apollo is the GraphQL company. Its Data Graph Platform helps developers, startups, and enterprises get the most out of GraphQL.'
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'http://www.apollographql.com'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'http://twitter.com/apollographql'
+              linkedin: 'https://www.linkedin.com/company/apollo-graphql/'
+              acquisitions:
+                - date: '2014-10-07'
+                  acquiree: FathomDB
+              parents: []
+              funding: 53200000
+              stockExchange: null
+              kind: funding
+            image_data:
+              fileName: acumatica.svg
+              hash: LyCjrxOhXv3hU7dEddFpNvP9m4ZcOZgM9+T45P4eIJU=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-06-01T16:49:23.000Z
+  - category:
+    name: Point Of Sale
+    subcategories:
+      - subcategory:
+        name: Mobile Point Of Sale
+        items:
+          - item:
+            name: A & B POS Solutions
+            homepage_url: 'https://abposus.com/'
+            logo: 'https://cdn.acumatica.com/content/themes/acumatica/assets/img/svg/logo-dark.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/arangodb'
+            crunchbase_data:
+              name: ArangoDB
+              description: 'ArangoDB is an open-source database with a native multi-model approach. Documents, graphs and K/V in one core with one query language.'
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'http://www.arangodb.com'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'http://twitter.com/arangodb'
+              linkedin: 'https://www.linkedin.com/company/5289249'
+              acquisitions: []
+              parents: []
+              funding: 19221424
+              stockExchange: null
+              kind: funding
+            image_data:
+              fileName: a-b-pos-solutions.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-06-01T20:03:09.000Z
+      - subcategory:
+        name: Traditional Point Of Sale
+        items:
+          - item:
+            name: 3S POS
+            homepage_url: 'https://3s-pos.com/'
+            logo: 3spos.svg
+            crunchbase: 'https://www.crunchbase.com/organization/hasura'
+            crunchbase_data:
+              name: Hasura
+              description: 'Blazing fast, instant realtime GraphQL APIs and eventing on Postgres with fine grained access control'
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'http://hasura.io/'
+              city: Palo Alto
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/hasurahq'
+              linkedin: 'https://www.linkedin.com/company/hasura/'
+              acquisitions: []
+              parents: []
+              funding: 11500000
+              stockExchange: null
+              kind: funding
+            image_data:
+              fileName: 3-s-pos.svg
+              hash: ZqxtO1PId0GKf4KarwJeLZyjbeIoPCVJNidVU2BAhT0=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-06-02T21:04:05.000Z
+  - category:
+    name: Restaurant Technology Foundation Member
+    subcategories:
+      - subcategory:
+        name: General
+        items:
+          - item:
+            name: Nandos (member)
+            homepage_url: 'https://www.nandos.co.uk'
+            logo: barci.svg
+            twitter: 'https://twitter.com/8base'
+            crunchbase: 'https://www.crunchbase.com/organization/8base-2'
+            crunchbase_data:
+              name: 8base
+              description: 8base is a next generation backend-as-a-service for powering SaaS and other go-to-market applications.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'http://8base.com'
+              city: Coral Gables
+              region: Florida
+              country: United States
+              twitter: 'https://twitter.com/8baseinc'
+              linkedin: 'https://www.linkedin.com/company/8base/'
+              acquisitions: []
+              parents: []
+              funding: 2800000
+              stockExchange: null
+              kind: funding
+            image_data:
+              fileName: nandos-member.svg
+              hash: gIh9O7R1GqY6IjEL4jgc12rId5CWu6faenMAmprOtSk=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-05-20T01:59:23.000Z
+  - category:
+    name: Restaurant Technology Adopter
+    subcategories:
+      - subcategory:
+        name: Restaurant Technology Adopter
+        items:
+          - item:
+            name: Nandos (adopter)
+            homepage_url: 'https://www.nandos.co.uk'
+            logo: barci.svg
+            twitter: 'https://twitter.com/8base'
+            crunchbase: 'https://www.crunchbase.com/organization/8base-2'
+            crunchbase_data:
+              name: 8base
+              description: 8base is a next generation backend-as-a-service for powering SaaS and other go-to-market applications.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'http://8base.com'
+              city: Coral Gables
+              region: Florida
+              country: United States
+              twitter: 'https://twitter.com/8baseinc'
+              linkedin: 'https://www.linkedin.com/company/8base/'
+              acquisitions: []
+              parents: []
+              funding: 2800000
+              stockExchange: null
+              kind: funding
+            image_data:
+              fileName: nandos-adopter.svg
+              hash: gIh9O7R1GqY6IjEL4jgc12rId5CWu6faenMAmprOtSk=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-05-20T01:59:23.000Z
+twitter_options:
+  count: 18
+  since_id: '1253788467244351488'
+updated_at: 2020-06-03T04:04:53.828Z

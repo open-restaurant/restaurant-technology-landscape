@@ -1,0 +1,240 @@
+landscape:
+  - category:
+    name: Guest Experience
+    subcategories:
+      - subcategory:
+        name: Table Management
+        items:
+          - item:
+            name: Agilysys
+            homepage_url: 'https://www.agilysys.com/'
+            logo: agilysys.svg
+            crunchbase: 'https://www.crunchbase.com/organization/the-guild-9777'
+          - item:
+            name: Avenista (TM)
+            homepage_url: 'https://http://www.avenista.com/'
+            logo: avenista.svg
+            crunchbase: 'https://www.crunchbase.com/organization/the-guild-9777'
+          - item:
+            name: Eat (TM)
+            homepage_url: 'https://eatapp.co/'
+            logo: eat.svg
+            crunchbase: 'https://www.crunchbase.com/organization/the-guild-9777'
+      - subcategory:
+        name: Online Ordering
+        items:
+          - item:
+            name: 247Waiter
+            homepage_url: 'https://www.247waiter.com/'
+            logo: 247waiter.svg
+            crunchbase: 'https://www.crunchbase.com/organization/the-guild-9777'
+          - item:
+            name: 411eat.com
+            homepage_url: 'http://411eat.com/'
+            logo: 411eat.svg
+            crunchbase: 'https://www.crunchbase.com/organization/meteor'
+      - subcategory:
+        name: Waitlist
+        items:
+          - item:
+            name: Avenista (W)
+            homepage_url: 'https://http://www.avenista.com/'
+            logo: avenista.svg
+            crunchbase: 'https://www.crunchbase.com/organization/the-guild-9777'
+          - item:
+            name: Cake
+            homepage_url: 'https://www.trycake.com/'
+            logo: trycake.svg
+            crunchbase: 'https://www.crunchbase.com/organization/the-guild-9777'
+      - subcategory:
+        name: Digital Menu
+        items:
+          - item:
+            name: Aptito
+            homepage_url: 'http://aptito.com'
+            logo: aptito.svg
+            crunchbase: 'https://www.crunchbase.com/organization/the-guild-9777'
+          - item:
+            name: Dyna-Menu
+            homepage_url: 'http://www.dyna-menu.com/'
+            logo: dyna-menu.svg
+            crunchbase: 'https://www.crunchbase.com/organization/the-guild-9777'
+      - subcategory:
+        name: Mobile Payments
+        items:
+          - item:
+            name: Allset
+            homepage_url: 'https://https://allsetnow.com/'
+            logo: allsetnow.svg
+            crunchbase: 'https://www.crunchbase.com/organization/the-guild-9777'
+          - item:
+            name: Apple Pay
+            homepage_url: 'https://www.apple.com/apple-pay/'
+            logo: apple-pay.svg
+            crunchbase: 'https://www.crunchbase.com/organization/the-guild-9777'
+      - subcategory:
+        name: Loyalty
+        items:
+          - item:
+            name: Influitive
+            homepage_url: 'https://influitive.com/'
+            logo: influitive.svg
+            crunchbase: 'https://www.crunchbase.com/organization/the-guild-9777'
+          - item:
+            name: antavo
+            homepage_url: 'https://antavo.com'
+            logo: antavo.svg
+            crunchbase: 'https://www.crunchbase.com/organization/the-guild-9777'
+      - subcategory:
+        name: Reservation Platforms
+        items:
+          - item:
+            name: Eatigo
+            homepage_url: 'https://eatigo.com/'
+            logo: eatigo.svg
+            crunchbase: 'https://www.crunchbase.com/organization/the-guild-9777'
+          - item:
+            name: The Fork (Formerly Dimmi)
+            homepage_url: 'https://www.thefork.com.au/'
+            logo: thefork.svg
+            crunchbase: 'https://www.crunchbase.com/organization/the-guild-9777'
+      - subcategory:
+        name: Customer Relationship Management
+        items:
+          - item:
+            name: Avenista (CRM)
+            homepage_url: 'https://http://www.avenista.com/'
+            logo: avenista.svg
+            crunchbase: 'https://www.crunchbase.com/organization/the-guild-9777'
+          - item:
+            name: AppFront
+            homepage_url: 'https://www.appfront.ai/'
+            logo: appfront.svg
+            crunchbase: 'https://www.crunchbase.com/organization/dailymotion'
+      - subcategory:
+        name: On Demand Delivery
+        items:
+          - item:
+            name: All Menus
+            homepage_url: 'https://www.allmenus.com/'
+            logo: allmenus.svg
+            crunchbase: 'https://www.crunchbase.com/organization/typegraphql'
+      - subcategory:
+        name: Surveys
+        items:
+          - item:
+            name: Avenista (S)
+            homepage_url: 'https://http://www.avenista.com/'
+            logo: avenista.svg
+            crunchbase: 'https://www.crunchbase.com/organization/the-guild-9777'
+      - subcategory:
+        name: Music Streaming
+        items:
+          - item:
+            name: 8Tracks
+            homepage_url: 'https://8tracks.com/'
+            logo: 8tracks.svg
+            crunchbase: 'https://www.crunchbase.com/organization/the-guild-9777'
+  - category:
+    name: Operations
+    subcategories:
+      - subcategory:
+        name: Scheduling
+        items:
+          - item:
+            name: 7 Shifts
+            homepage_url: 'https://7shifts.com'
+            logo: 7shifts.svg
+            twitter: 'https://twitter.com/8base'
+            crunchbase: 'https://www.crunchbase.com/organization/8base-2'
+      - subcategory:
+        name: Food Waste
+        items:
+          - item:
+            name: Copia
+            homepage_url: 'https://www.gocopia.com/'
+            logo: copia.svg
+            crunchbase: 'https://www.crunchbase.com/organization/amazon-web-services'
+      - subcategory:
+        name: Restaurant Analytics
+        items:
+          - item:
+            name: Eat (RA)
+            homepage_url: 'https://eatapp.co/'
+            logo: eat.svg
+            crunchbase: 'https://www.crunchbase.com/organization/the-guild-9777'
+      - subcategory:
+        name: Training
+        items:
+          - item:
+            name: CoInspect
+            homepage_url: 'https://coinspectapp.com/'
+            logo: coinspect.svg
+            crunchbase: 'https://www.crunchbase.com/organization/meteor'
+      - subcategory:
+        name: Tip Reporting
+        items:
+          - item:
+            name: Just The Tips
+            homepage_url: 'http://www.justthetips.com/'
+            logo: just-the-tips.svg
+            crunchbase: 'https://www.crunchbase.com/organization/meteor'
+      - subcategory:
+        name: Inventory Management
+        items:
+          - item:
+            name: Bevspot
+            homepage_url: 'https://bevspot.com/'
+            logo: bevspot.svg
+            crunchbase: 'https://www.crunchbase.com/organization/meteor'
+      - subcategory:
+        name: Restaurant Accounting
+        items:
+          - item:
+            name: Acumatica
+            homepage_url: 'https://www.acumatica.com/'
+            logo: acumatica.svg
+            crunchbase: 'https://www.crunchbase.com/organization/meteor'
+  - category:
+    name: Point Of Sale
+    subcategories:
+      - subcategory:
+        name: Mobile Point Of Sale
+        items:
+          - item:
+            name: A & B POS Solutions
+            homepage_url: 'https://abposus.com/'
+            logo: 'https://cdn.acumatica.com/content/themes/acumatica/assets/img/svg/logo-dark.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/arangodb'
+      - subcategory:
+        name: Traditional Point Of Sale
+        items:
+          - item:
+            name: 3S POS
+            homepage_url: 'https://3s-pos.com/'
+            logo: 3spos.svg
+            crunchbase: 'https://www.crunchbase.com/organization/hasura'
+  - category:
+    name: Restaurant Technology Foundation Member
+    subcategories:
+      - subcategory:
+        name: General
+        items:
+          - item:
+            name: Nandos (member)
+            homepage_url: 'https://www.nandos.co.uk'
+            logo: barci.svg
+            twitter: 'https://twitter.com/8base'
+            crunchbase: 'https://www.crunchbase.com/organization/8base-2'
+  - category:
+    name: Restaurant Technology Adopter
+    subcategories:
+      - subcategory:
+        name: Restaurant Technology Adopter
+        items:
+          - item:
+            name: Nandos (adopter)
+            homepage_url: 'https://www.nandos.co.uk'
+            logo: barci.svg
+            twitter: 'https://twitter.com/8base'
+            crunchbase: 'https://www.crunchbase.com/organization/8base-2'
