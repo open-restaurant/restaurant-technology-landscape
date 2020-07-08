@@ -1,0 +1,15 @@
+* Restaurant Technology Landscape
+
+The ideas behind this have been inspired by [[https://landscape.cncf.io/][Cloud Native Computing Foundation landscape]] project and [[https://restaurant.eatapp.co/blog/management/restaurant-technology-landscape][The Restaurant Technology Landscape 2018]] article with the following ideas:
+
+- Open source to enable any to to contribute.
+- Provide a common industry vocabulary to describe the technology used within the restaurant industry.
+- Support the creation of open standards to provide flexibility, more choice and to drive higher quality of products and services to our end customers.
+- Collate the list of technologies used by the restaurant industry.
+- Start simple and build as the community needs grow.
+
+** Initial Ideas
+
+- TODO Introduction page outlining the mission.
+- TODO Blog about the different technology areas of the restaurant industry.
+- TODO Blog post for technologies have been apart of vendor selections in the different areas of the restaurant industry.

@@ -1,1 +1,0 @@
-# restaurant-technology-landscape
