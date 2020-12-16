@@ -1,0 +1,13 @@
+steps:
+- name: 'gcr.io/cloud-builders/npm:current'
+  entrypoint: '/bin/sh'
+  args:
+  - '-c'
+  - 'chmod +x ./website/scripts/*.sh && cd ./website && ./scripts/google.sh'
+- name: 'gcr.io/cloud-builders/gsutil'
+  entrypoint: '/bin/sh'
+  args:
+  - '-c'
+  - 'gsutil -m rsync -a public-read -r -d website/dist $$BUCKET_NAME'
+  env:
+    - 'BUCKET_NAME=$_BUCKET_NAME'
