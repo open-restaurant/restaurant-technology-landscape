@@ -1,8 +1,0 @@
-secretsprovider: gcpkms://projects/nifty-bindery-242115/locations/global/keyRings/cloud-build/cryptoKeys/pulumi
-encryptedkey: CiQAz0GPP8g4i4cJhOjhfSA0h0o0oQv3w2pL6aHdoNkGiAts3qcSSQANLlq2SU3PP5rKUxOFGMF31f+OIioBE1BdRSfplSuWc4srYVsuCv/SDv0bwWUWGF1fRtu55BCAh5ix0cluGPtXxNgvCRcL2ko=
-config:
-  gcp:project: nifty-bindery-242115
-  gcp:region: europe-west1
-  gcp:zone: b
-  restaurant-technology-landscape-setup:access-token:
-    secure: v1:FUKUFCcbomRXiP9Y:92VrX+8gmsF5/JPrhjr2itKwzHKSmCdlOd4bIAEoHHrhWw0JCqYqmmBa9pun9nT8h7DTSHrSPEhts0Zp

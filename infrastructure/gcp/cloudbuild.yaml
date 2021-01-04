@@ -1,0 +1,98 @@
+steps:
+  - id: "branch name"
+    name: "alpine"
+    entrypoint: "sh"
+    args:
+      - "-c"
+      - |
+        echo "***********************"
+        echo "$BRANCH_NAME"
+        echo "***********************"
+
+  # [START tf-init]
+  - id: "tf init"
+    name: "hashicorp/terraform:0.13.5"
+    entrypoint: "sh"
+    args:
+      - "-c"
+      - |
+        if [ -d "$$N_ROOT/$BRANCH_NAME/" ]; then
+          cd $$N_ROOT/$BRANCH_NAME
+          terraform init
+        elif [ -d "$$N_ROOT/$_BUILD_ENV/" ]; then
+          cd $$N_ROOT/$_BUILD_ENV
+          terraform init || exit 1
+        else
+          echo "***************************** SKIPPING INIT ************************************"
+          echo "$$N_ROOT/$BRANCH_NAME folder not found in branch '$BRANCH_NAME'."
+          echo "$$N_ROOT/$_BUILD_ENV folder not found in branch '$BRANCH_NAME'."
+          echo "********************************************************************************"
+          exit 1
+        fi
+    env:
+      - 'N_ROOT=infrastructure/gcp/environments'
+  # [END tf-init]
+  # [START tf-validate]
+  - id: "tf validate"
+    name: "hashicorp/terraform:0.13.5"
+    entrypoint: "sh"
+    args:
+      - "-c"
+      - |
+        if [ -d "$$N_ROOT/$BRANCH_NAME/" ]; then
+          cd $$N_ROOT/$BRANCH_NAME
+          terraform validate
+        elif [ -d "$$N_ROOT/$_BUILD_ENV/" ]; then
+          cd $$N_ROOT/$_BUILD_ENV
+          terraform validate || exit 1
+        else
+          echo "***************************** SKIPPING VALIDATE ************************************"
+          echo "$$N_ROOT/$BRANCH_NAME folder not found in branch '$BRANCH_NAME'."
+          echo "$$N_ROOT/$_BUILD_ENV folder not found in branch '$BRANCH_NAME'."
+          echo "********************************************************************************"
+          exit 1
+        fi
+    env:
+      - 'N_ROOT=infrastructure/gcp/environments'
+  # [END tf-validate]
+  # [START tf-plan]
+  - id: "tf plan"
+    name: "hashicorp/terraform:0.13.5"
+    entrypoint: "sh"
+    args:
+      - "-c"
+      - |
+        if [ -d "$$N_ROOT/$BRANCH_NAME/" ]; then
+          cd $$N_ROOT/$BRANCH_NAME
+          terraform plan
+        elif [ -d "$$N_ROOT/$_BUILD_ENV/" ]; then
+          cd $$N_ROOT/$_BUILD_ENV
+          terraform plan || exit 1
+        else
+          echo "***************************** SKIPPING PLAN ************************************"
+          echo "$$N_ROOT/$BRANCH_NAME folder not found in branch '$BRANCH_NAME'."
+          echo "$$N_ROOT/$_BUILD_ENV folder not found in branch '$BRANCH_NAME'."
+          echo "********************************************************************************"
+          exit 1
+        fi
+    env:
+      - 'N_ROOT=infrastructure/gcp/environments'
+  # [END tf-plan]
+  # [START tf-apply]
+  - id: "tf apply"
+    name: "hashicorp/terraform:0.13.5"
+    entrypoint: "sh"
+    args:
+      - "-c"
+      - |
+        if [ -d "$$N_ROOT/$BRANCH_NAME/" ] && [ "$$N_ROOT/$BRANCH_NAME/" == "$$N_ROOT/$_BUILD_ENV/" ]; then
+          cd $$N_ROOT/$BRANCH_NAME
+          terraform apply -auto-approve
+        else
+          echo "***************************** SKIPPING APPLYING *******************************"
+          echo "Branch '$BRANCH_NAME' does not represent an official environment."
+          echo "*******************************************************************************"
+        fi
+    env:
+      - 'N_ROOT=infrastructure/gcp/environments'
+# [END tf-apply]
