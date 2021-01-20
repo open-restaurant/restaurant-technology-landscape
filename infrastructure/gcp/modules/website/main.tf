@@ -71,13 +71,3 @@ resource "google_compute_global_forwarding_rule" "default" {
   port_range  = "80"
   description = var.description
 }
-
-resource "google_dns_record_set" "recordset" {
-  name = "${var.domain}."
-  type = "A"
-  ttl  = 300
-
-  managed_zone = var.zone.name
-
-  rrdatas = [google_compute_global_forwarding_rule.default.ip_address]
-}
