@@ -7,7 +7,7 @@ locals {
 # Create Website
 module "website" {
   source      = "../../modules/website"
-  name        = local.website_name
+  name        = var.project
   description = local.description
   domain      = "${var.subdomain}.${local.domain}"
   region      = var.region
