@@ -34,8 +34,8 @@ steps:
     args:
       - "-c"
       - |
-        if [ -d "$$ENV_ROOT/$BRANCH_NAME/" ]; then
-          cd $$ENV_ROOT/$BRANCH_NAME
+        if [ -d "$$ENV_ROOT/$_BUILD_ENV/" ]; then
+          cd $$ENV_ROOT/$_BUILD_ENV
           terraform validate
         else
           echo "***************************** SKIPPING VALIDATE ************************************"
@@ -52,8 +52,8 @@ steps:
     args:
       - "-c"
       - |
-        if [ -d "$$ENV_ROOT/$BRANCH_NAME/" ]; then
-          cd $$ENV_ROOT/$BRANCH_NAME
+        if [ -d "$$ENV_ROOT/$_BUILD_ENV/" ]; then
+          cd $$ENV_ROOT/$_BUILD_ENV
           terraform plan
         else
           echo "***************************** SKIPPING PLAN ************************************"
